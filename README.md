@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=200&section=header&text=Hi%20there,%20I'm%20Tamar!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <a href="https://github.com/TamarCoder">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&width=600&lines=React+Front-End+Developer;Crafting+user-centric+web+apps+✨;From+healthcare+operations+to+code+🏥+→+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&width=600&lines=React+Front-End+Developer;Crafting+user-centric+web+apps;From+healthcare+operations+to+code" alt="Typing SVG" />
 </a>
 
 <br/>
