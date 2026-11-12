@@ -135,8 +135,8 @@ This experience has strengthened my skills in writing clean, maintainable code a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TamarCoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamarCoder&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TamarCoder&theme=tokyonight" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TamarCoder&theme=tokyonight" height="165" />
 
 <img src="https://streak-stats.demolab.com?user=TamarCoder&theme=tokyonight&hide_border=true" />
 
@@ -148,11 +148,27 @@ This experience has strengthened my skills in writing clean, maintainable code a
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhoMnljbzM3eTg1bDN2b2Q1cThob3c5d3p6bDMyb2c1dXY4Z3FoYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="360" style="border-radius:12px" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TamarCoder&theme=tokyonight" width="100%" />
 
-### ⚡ Fun fact: I turned from healthcare operations into code operations! 🏥 → 💻
+<br/><br/>
 
-**Let's collaborate and build amazing projects together! 🚀 💡**
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚡ Fun fact</h3>
+      I turned from <b>healthcare operations</b><br/>into <b>code operations!</b>
+      <br/><br/>
+      🏥 &nbsp;➜&nbsp; 💻
+    </td>
+    <td align="center" width="50%">
+      <h3>🤝 Let's collaborate</h3>
+      Let's build amazing projects together! 🚀 💡
+      <br/><br/>
+      <a href="https://www.linkedin.com/in/tamar-khukisvadze"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+      <a href="mailto:thamuna.khuskivadze@gmail.com"><img src="https://img.shields.io/badge/Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
